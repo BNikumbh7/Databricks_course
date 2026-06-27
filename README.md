@@ -30,7 +30,7 @@ Topics include:
 ```text
 Databricks_course/
 ├── |__Data_Modelling/
-│   ├── 01_Data_Files/
+│   ├── 01_Dataset/
 │   └── 02_Scripts/
 │
 └── README.md
